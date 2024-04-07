@@ -1,7 +1,6 @@
 # Task Manager
 
-![](./screen1.png)
-![](./screen2.png)
+![](./screen.png)
 
 This Task Manager project is created as a learning exercise for integrating Vue.js and MongoDB. It provides a simple interface for managing tasks, allowing users to add, delete and update tasks.
 
